@@ -26,7 +26,7 @@ const Footer = () => {
         </div>
         <div className="divider divider-info"></div>
         <h3 className="text-white text-center pb-5">
-          &copy; All right reserved
+          &copy; All Right Reserved
         </h3>
       </Container>
     </div>
